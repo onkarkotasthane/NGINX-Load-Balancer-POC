@@ -1,5 +1,5 @@
 # NGINX-Load-Balancer-POC
-NGINX Load Balancer POC on Local
+NGINX Load Balancer POC (local setup)
 
 - <b>System Diagram</b>
 
